@@ -1,0 +1,12 @@
+#Aritméticos:# +, -, *, /, % 
+
+#Unários:# ++, --, !
+
+#Relacionais de comparação e igualdade:# <, >, <=, >=,, ==, !=
+
+#Lógicos:# &&, || ultilizados para identificar se é true or false, os boolean
+
+#Ternário:# ? : que são ultilizados com o mesmo efeito do if - else 
+
+#Atribuição:# =, +=, -=, *=, /=, %=, &=, ^=, |=
+

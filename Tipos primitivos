@@ -1,0 +1,25 @@
+#Tipo Booleano#
+Onde estão armazenados para identificar se é true ou false, em que se armazenam  em 1 bit.
+
+#Tipos numericos#
+1 bit
+1 byte que armazena 8 bits
+1 kilobyte que armazena 1000 bytes
+1 megabyte que armazena 1000000 bytes
+1 gigabyte que armazena 1000000000 bytes
+1 terabyte que armazena 1000000000000 bytes
+
+#Tipos Numericos Inteiros#
+Onde se encontram em intervalos em que 0 é positivo e 1 é negativo
+byte possuem 8 bits ou 1 byte
+short possuem 16 bits ou 2 bytes
+int possuem 32 bits ou 4 bytes
+long possuem 64 bits ou 8 bytes
+
+#Tipos Numéricos de Ponto Flutuante#
+float onde são armazenados em 4 bytes ou  32 bits
+double onde são armazenados em 8 bytes ou 64 bits
+
+#Tipos textuais#
+Os tipos textuais na liguagem de jav são indentificados como uma String e char, em que char são ultilizados para armazenar caracteres em que é armazenado em 2 bytes 
+e String para 
